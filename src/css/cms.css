@@ -1,0 +1,143 @@
+.copyright {
+	font-size: 10px;
+	font-variant: small-caps;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-align: center;
+}
+body {
+	margin: 0px;
+	background-color: E5E5E5;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+}
+.genText {
+	font-size: 12px;
+	text-decoration: none;
+}
+a.genText:Hover {
+	text-decoration: underline;
+}
+a.genText:Visited {
+	color: #0000CC;
+}
+.alert {
+	color: #FF0000;
+	font-size: 12px;
+	text-decoration: none;
+}
+a.alert:Hover {
+	color: #0000FF;
+	text-decoration: underline;
+}
+a.alert:Visited {
+	color: #0000FF;
+}
+.notice {
+	color: #0000FF;
+	font-size: 12px;
+	text-decoration: none;
+}
+a.notice:Hover {
+	color: #666666;
+	text-decoration: underline;
+}
+a.notice:Visited {
+	color: #CCCCFF;
+}
+.ctrlPnlHead {
+	font-weight: bold;
+	height: 28px;
+	font-size: 12px;
+	border-top: 1px solid #FFFFFF;
+	border-right: 1px solid #FFFFFF;
+	border-bottom: 0px solid #FFFFFF;
+	border-left: 1px solid #FFFFFF;
+	color: #000000;
+
+}
+.ctrlPnlGen {
+	border-top: 1px solid #FFFFFF;
+	border-right: 1px solid #FFFFFF;
+	border-bottom: 0px solid #FFFFFF;
+	border-left: 1px solid #FFFFFF;
+	padding-left: 10px;
+	background-color: #CCCCCC;
+	height: 20px;
+}
+.ctrlPnlTopic {
+	height: 26px;
+	border-top: 1px solid #FFFFFF;
+	border-right: 1px solid #FFFFFF;
+	border-bottom: 0px solid #FFFFFF;
+	border-left: 1px solid #FFFFFF;
+	background-color: #999999;
+}
+.menuTopic {
+	font-size: 12px;
+	text-decoration: none;
+	font-weight: bold;
+	color: #000000;
+}
+.menuItem {
+	font-size: 11px;
+	text-decoration: none;
+	color: #0000CC;
+	white-space: nowrap;
+}
+a.menuItem:hover {
+	text-decoration: underline;
+	color: #0000CC;
+}
+a.menuItem:Visited {
+	color: #0000CC;
+}
+img{
+	border: 0;
+}
+th {
+	font-size: 11px;
+	font-weight: bold;
+	color: #000000;
+	background-color: #8586A5;
+	height: 25px;
+	background-image: url(../images/tblth.gif);
+
+}
+.tblBorder {
+	border: 2px solid #0000FF;
+}
+.tblTop {
+	border-top-width: 1px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+}
+.tblTopLeft {
+	border-top-width: 1px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 1px;
+}
+.tblTopRight {
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+}
+.tblRowContent {
+	background-color: #CCCCCC;
+}
+.tblRowFoot {
+	background-color: #EEEEEE;
+
+
+}
+.submitButton {
+	font-size: 10px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.dataField {
+	font-size: 10px;
+	font-family: Arial, Helvetica, sans-serif;
+	background-position: center;
+}
